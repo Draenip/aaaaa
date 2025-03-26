@@ -2,7 +2,7 @@
 version: '2.0'
 
 dir_rule:
-  base_dir: "C:\\Users\\Hello\\Desktop\\langbot\\plugins\\JM_PDF_plugin\\downloads" # 下载存储目录，要求为插件目录下downloads目录的绝对路径
+  base_dir: "D:\AstrBotLauncher-0.1.5.5\AstrBot\data\plugins\\JM_PDF_plugin\\downloads" # 下载存储目录，要求为插件目录下downloads目录的绝对路径
   rule: Bd_Atitle_Pindex
 
 # client:
